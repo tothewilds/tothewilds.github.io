@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-02T04:13:10.000Z</updated>
+  <updated>2016-10-02T04:41:07.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -16,18 +16,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Post</title>
-    <link href="https://wanderersguide.tothewilds.online/2016/10/01/Post/"/>
-    <id>https://wanderersguide.tothewilds.online/2016/10/01/Post/</id>
-    <published>2016-10-02T04:09:24.000Z</published>
-    <updated>2016-10-02T04:13:10.000Z</updated>
+    <title>Bear Wasps</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/16/Bear-Wasps/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/16/Bear-Wasps/</id>
+    <published>2015-10-17T04:37:09.000Z</published>
+    <updated>2016-10-02T04:41:07.000Z</updated>
     
-    <content type="html"><![CDATA[<p>this is a post you stupid</p>
+    <content type="html"><![CDATA[<img src="/2015/10/16/Bear-Wasps/bear-wasps.jpg" alt="Bear Wasps" title="Bear Wasps">
+<p>Larger than wasps, but smaller than bears</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;this is a post you stupid&lt;/p&gt;
+      &lt;img src=&quot;/2015/10/16/Bear-Wasps/bear-wasps.jpg&quot; alt=&quot;Bear Wasps&quot; title=&quot;Bear Wasps&quot;&gt;
+&lt;p&gt;Larger than wasps, but smaller than bears&lt;/p&gt;
 
     
     </summary>
@@ -275,26 +277,6 @@
   </entry>
   
   <entry>
-    <title>Earl of Driztil</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
-    <published>2015-10-06T07:00:00.000Z</published>
-    <updated>2016-10-02T03:44:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Fort of the Skull</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/</id>
@@ -307,6 +289,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg&quot; alt=&quot;Fort of the Skull&quot; title=&quot;Fort of the Skull&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Earl of Driztil</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
+    <published>2015-10-06T07:00:00.000Z</published>
+    <updated>2016-10-02T03:44:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
 
     
     </summary>
@@ -355,26 +357,6 @@
   </entry>
   
   <entry>
-    <title>Portfellow Scavengers</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
-    <published>2015-10-04T07:00:00.000Z</published>
-    <updated>2016-10-02T03:44:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>The King&#39;s Fen</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/</id>
@@ -387,6 +369,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/04/The-King-s-Fen/the-kings-fen.jpg&quot; alt=&quot;The King&#39;s Fen&quot; title=&quot;The King&#39;s Fen&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Portfellow Scavengers</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
+    <published>2015-10-04T07:00:00.000Z</published>
+    <updated>2016-10-02T03:44:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
 
     
     </summary>
