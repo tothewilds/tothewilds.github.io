@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-05T04:34:30.000Z</updated>
+  <updated>2016-10-06T04:39:45.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Undead Cultists</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/05/Undead-Cult/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/05/Undead-Cult/</id>
+    <published>2016-10-06T04:32:41.000Z</published>
+    <updated>2016-10-06T04:39:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/05/Undead-Cult/20161005-undead.jpg" alt="20161005-undead.jpg" title="">
+<p>Undead - group, prowling, hypnotize</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/05/Undead-Cult/20161005-undead.jpg&quot; alt=&quot;20161005-undead.jpg&quot; title=&quot;&quot;&gt;
+&lt;p&gt;Undead - group, prowling, hypnotize&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Abeni Lost Scout</title>
@@ -545,26 +567,6 @@
   </entry>
   
   <entry>
-    <title>Savage Thicket</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
-    <published>2015-10-03T07:00:00.000Z</published>
-    <updated>2016-10-02T03:44:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Bosade, Street Urchin</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/03/Bosade-Street-Urchin/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/03/Bosade-Street-Urchin/</id>
@@ -579,6 +581,26 @@
     
       &lt;img src=&quot;/2015/10/03/Bosade-Street-Urchin/bosade.jpg&quot; alt=&quot;Bosade, Street Urchin&quot; title=&quot;Bosade, Street Urchin&quot;&gt;
 &lt;p&gt;Fighting, chaotic, scra
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Savage Thicket</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
+    <published>2015-10-03T07:00:00.000Z</published>
+    <updated>2016-10-02T03:44:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
+
     
     </summary>
     
@@ -624,26 +646,6 @@
   </entry>
   
   <entry>
-    <title>Höd Hall</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
-    <published>2015-10-01T07:00:00.000Z</published>
-    <updated>2016-10-02T03:44:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Ramza, Merchant of Spices</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/</id>
@@ -658,6 +660,26 @@
     
       &lt;img src=&quot;/2015/10/01/Ramza-Merchant-of-Spices/ramza.png&quot; alt=&quot;Ramza&quot; title=&quot;Ramza&quot;&gt;
 &lt;p&gt;Hobgoblin, Commoner.&lt;br&gt;Travelling, lawful, friendly
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Höd Hall</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
+    <published>2015-10-01T07:00:00.000Z</published>
+    <updated>2016-10-02T03:44:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
+
     
     </summary>
     
