@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-17T18:42:09.000Z</updated>
+  <updated>2016-10-19T04:30:14.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Reima the Diviner</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/18/Reima-the-Diviner/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/18/Reima-the-Diviner/</id>
+    <published>2016-10-19T04:28:15.000Z</published>
+    <updated>2016-10-19T04:30:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/18/Reima-the-Diviner/20161018-musk-ox.jpg" alt="Reima the Diviner" title="Reima the Diviner">
+<p>Reima - musk ox, magic type: divination, lawful, friendly, solitary</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/18/Reima-the-Diviner/20161018-musk-ox.jpg&quot; alt=&quot;Reima the Diviner&quot; title=&quot;Reima the Diviner&quot;&gt;
+&lt;p&gt;Reima - musk ox, magic t
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>The Lapar</title>
@@ -700,26 +721,6 @@
   </entry>
   
   <entry>
-    <title>Earl of Driztil</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
-    <published>2015-10-06T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Fort of the Skull</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/</id>
@@ -732,6 +733,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg&quot; alt=&quot;Fort of the Skull&quot; title=&quot;Fort of the Skull&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Earl of Driztil</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
+    <published>2015-10-06T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
 
     
     </summary>
@@ -780,26 +801,6 @@
   </entry>
   
   <entry>
-    <title>The King&#39;s Fen</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/</id>
-    <published>2015-10-04T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/04/The-King-s-Fen/the-kings-fen.jpg" alt="The King's Fen" title="The King's Fen">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/04/The-King-s-Fen/the-kings-fen.jpg&quot; alt=&quot;The King&#39;s Fen&quot; title=&quot;The King&#39;s Fen&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Portfellow Scavengers</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
@@ -812,6 +813,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The King&#39;s Fen</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/</id>
+    <published>2015-10-04T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/04/The-King-s-Fen/the-kings-fen.jpg" alt="The King's Fen" title="The King's Fen">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/04/The-King-s-Fen/the-kings-fen.jpg&quot; alt=&quot;The King&#39;s Fen&quot; title=&quot;The King&#39;s Fen&quot;&gt;
 
     
     </summary>
