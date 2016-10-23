@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-20T05:43:57.000Z</updated>
+  <updated>2016-10-23T04:51:53.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,69 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tri</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/22/Tri/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/22/Tri/</id>
+    <published>2016-10-23T04:47:37.000Z</published>
+    <updated>2016-10-23T04:51:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/22/Tri/20161022-dwarf.jpg" alt="Tri" title="Tri">
+<p>Tri - dwarf, trapper, neutral, solitary, lasting injury, peaceful, addict</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/22/Tri/20161022-dwarf.jpg&quot; alt=&quot;Tri&quot; title=&quot;Tri&quot;&gt;
+&lt;p&gt;Tri - dwarf, trapper, neutral, solitary, lasting injury, peaceful, a
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Lich Queen</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/21/Lich-Queen/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/21/Lich-Queen/</id>
+    <published>2016-10-22T06:41:51.000Z</published>
+    <updated>2016-10-23T04:46:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/21/Lich-Queen/20161021-lich.jpg" alt="Lich Queen" title="Lich Queen">
+<p>Lich Queen - undead, humanoid, hostile, lost, evil</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/21/Lich-Queen/20161021-lich.jpg&quot; alt=&quot;Lich Queen&quot; title=&quot;Lich Queen&quot;&gt;
+&lt;p&gt;Lich Queen - undead, humanoid, hostile, lost, ev
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Perov</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/20/The-Perov/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/20/The-Perov/</id>
+    <published>2016-10-21T04:01:51.000Z</published>
+    <updated>2016-10-23T04:46:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/20/The-Perov/20161020-merfolk.jpg" alt="The Perov" title="The Perov">
+<p>The Perov - merfolk, hunting, neutral, attractive, idealistic</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/20/The-Perov/20161020-merfolk.jpg&quot; alt=&quot;The Perov&quot; title=&quot;The Perov&quot;&gt;
+&lt;p&gt;The Perov - merfolk, hunting, neutral, attractiv
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Ilkka</title>
@@ -742,26 +805,6 @@
   </entry>
   
   <entry>
-    <title>Fort of the Skull</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/</id>
-    <published>2015-10-06T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg" alt="Fort of the Skull" title="Fort of the Skull">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg&quot; alt=&quot;Fort of the Skull&quot; title=&quot;Fort of the Skull&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Earl of Driztil</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
@@ -774,6 +817,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Fort of the Skull</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/</id>
+    <published>2015-10-06T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg" alt="Fort of the Skull" title="Fort of the Skull">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg&quot; alt=&quot;Fort of the Skull&quot; title=&quot;Fort of the Skull&quot;&gt;
 
     
     </summary>
@@ -862,6 +925,26 @@
   </entry>
   
   <entry>
+    <title>Savage Thicket</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
+    <published>2015-10-03T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Bosade, Street Urchin</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/03/Bosade-Street-Urchin/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/03/Bosade-Street-Urchin/</id>
@@ -883,19 +966,18 @@
   </entry>
   
   <entry>
-    <title>Savage Thicket</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
-    <published>2015-10-03T07:00:00.000Z</published>
+    <title>Temple of the Iron Knight</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/</id>
+    <published>2015-10-02T07:00:00.000Z</published>
     <updated>2016-10-11T03:51:46.000Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
+    <content type="html"><![CDATA[<img src="/2015/10/02/Temple-of-the-Iron-Knight/temple-of-the-iron-knight.jpg" alt="Temple of the Iron Knight" title="Temple of the Iron Knight">
 ]]></content>
     
     <summary type="html">
     
-      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
-
+      &lt;img src=&quot;/2015/10/02/Temple-of-the-Iron-Knight/temple-of-the-iron-knight.jpg&quot; alt=&quot;Temple of the Iron Knight&quot; title=&quot;Temple of the Iron Kni
     
     </summary>
     
@@ -915,25 +997,6 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/02/Brother-Braston/brother-braston.png&quot; alt=&quot;Brother Braston, Disciple of Umir&quot; title=&quot;Brother Braston, Disciple of Umir&quot;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Temple of the Iron Knight</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/</id>
-    <published>2015-10-02T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/02/Temple-of-the-Iron-Knight/temple-of-the-iron-knight.jpg" alt="Temple of the Iron Knight" title="Temple of the Iron Knight">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/02/Temple-of-the-Iron-Knight/temple-of-the-iron-knight.jpg&quot; alt=&quot;Temple of the Iron Knight&quot; title=&quot;Temple of the Iron Kni
     
     </summary>
     
