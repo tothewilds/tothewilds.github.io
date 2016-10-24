@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-23T04:51:53.000Z</updated>
+  <updated>2016-10-24T06:25:43.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fighting Rats</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/23/Fighting-Rats/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/23/Fighting-Rats/</id>
+    <published>2016-10-24T06:23:47.000Z</published>
+    <updated>2016-10-24T06:25:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/23/Fighting-Rats/20161023-rats.jpg" alt="Fighting Rats" title="Fighting Rats">
+<p>Rats - group, fighting, neutral, medium-sized</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/23/Fighting-Rats/20161023-rats.jpg&quot; alt=&quot;Fighting Rats&quot; title=&quot;Fighting Rats&quot;&gt;
+&lt;p&gt;Rats - group, fighting, neutral, medium
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Tri</title>
@@ -805,26 +826,6 @@
   </entry>
   
   <entry>
-    <title>Earl of Driztil</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
-    <published>2015-10-06T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Fort of the Skull</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/06/Fort-of-the-Skull/</id>
@@ -837,6 +838,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/06/Fort-of-the-Skull/fort-of-the-skull.jpg&quot; alt=&quot;Fort of the Skull&quot; title=&quot;Fort of the Skull&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Earl of Driztil</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/06/Earl-of-Driztil/</id>
+    <published>2015-10-06T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg" alt="Earl of Driztil" title="Earl of Driztil">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/06/Earl-of-Driztil/earl-of-driztil.jpg&quot; alt=&quot;Earl of Driztil&quot; title=&quot;Earl of Driztil&quot;&gt;
 
     
     </summary>
@@ -966,6 +987,25 @@
   </entry>
   
   <entry>
+    <title>Brother Braston</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/02/Brother-Braston/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/02/Brother-Braston/</id>
+    <published>2015-10-02T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/02/Brother-Braston/brother-braston.png" alt="Brother Braston, Disciple of Umir" title="Brother Braston, Disciple of Umir">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/02/Brother-Braston/brother-braston.png&quot; alt=&quot;Brother Braston, Disciple of Umir&quot; title=&quot;Brother Braston, Disciple of Umir&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Temple of the Iron Knight</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/02/Temple-of-the-Iron-Knight/</id>
@@ -985,18 +1025,19 @@
   </entry>
   
   <entry>
-    <title>Brother Braston</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/02/Brother-Braston/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/02/Brother-Braston/</id>
-    <published>2015-10-02T07:00:00.000Z</published>
+    <title>Höd Hall</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
+    <published>2015-10-01T07:00:00.000Z</published>
     <updated>2016-10-11T03:51:46.000Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2015/10/02/Brother-Braston/brother-braston.png" alt="Brother Braston, Disciple of Umir" title="Brother Braston, Disciple of Umir">
+    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
 ]]></content>
     
     <summary type="html">
     
-      &lt;img src=&quot;/2015/10/02/Brother-Braston/brother-braston.png&quot; alt=&quot;Brother Braston, Disciple of Umir&quot; title=&quot;Brother Braston, Disciple of Umir&quot;
+      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
+
     
     </summary>
     
@@ -1018,26 +1059,6 @@
     
       &lt;img src=&quot;/2015/10/01/Ramza-Merchant-of-Spices/ramza.png&quot; alt=&quot;Ramza&quot; title=&quot;Ramza&quot;&gt;
 &lt;p&gt;Hobgoblin, Commoner.&lt;br&gt;Travelling, lawful, friendly
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Höd Hall</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
-    <published>2015-10-01T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
-
     
     </summary>
     
