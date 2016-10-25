@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-24T06:25:43.000Z</updated>
+  <updated>2016-10-25T05:40:34.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Armas the Goatherd</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/24/Armas-the-Goatherd/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/24/Armas-the-Goatherd/</id>
+    <published>2016-10-25T05:38:04.000Z</published>
+    <updated>2016-10-25T05:40:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/24/Armas-the-Goatherd/20161024-goatherd.jpg" alt="Armas the Goatherd" title="Armas the Goatherd">
+<p>Armas - goatherd, neutral, notable eyes, kind, generous </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/24/Armas-the-Goatherd/20161024-goatherd.jpg&quot; alt=&quot;Armas the Goatherd&quot; title=&quot;Armas the Goatherd&quot;&gt;
+&lt;p&gt;Armas - goatherd, ne
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Fighting Rats</title>
@@ -1025,26 +1046,6 @@
   </entry>
   
   <entry>
-    <title>Höd Hall</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
-    <published>2015-10-01T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Ramza, Merchant of Spices</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/</id>
@@ -1059,6 +1060,26 @@
     
       &lt;img src=&quot;/2015/10/01/Ramza-Merchant-of-Spices/ramza.png&quot; alt=&quot;Ramza&quot; title=&quot;Ramza&quot;&gt;
 &lt;p&gt;Hobgoblin, Commoner.&lt;br&gt;Travelling, lawful, friendly
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Höd Hall</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
+    <published>2015-10-01T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
+
     
     </summary>
     
