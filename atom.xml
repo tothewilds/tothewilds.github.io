@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-28T03:52:34.000Z</updated>
+  <updated>2016-10-28T03:56:01.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://wanderersguide.tothewilds.online/2016/10/27/Micro-Kong/"/>
     <id>https://wanderersguide.tothewilds.online/2016/10/27/Micro-Kong/</id>
     <published>2016-10-28T03:49:49.000Z</published>
-    <updated>2016-10-28T03:52:34.000Z</updated>
+    <updated>2016-10-28T03:56:01.000Z</updated>
     
     <content type="html"><![CDATA[<img src="/2016/10/27/Micro-Kong/20161027-micro-kong.jpg" alt="20161027-micro-kong.jpg" title="">
 <p>Micro Kong - ape, exploring, neutral, solitary, tiny</p>
@@ -30,6 +30,49 @@
     
       &lt;img src=&quot;/2016/10/27/Micro-Kong/20161027-micro-kong.jpg&quot; alt=&quot;20161027-micro-kong.jpg&quot; title=&quot;&quot;&gt;
 &lt;p&gt;Micro Kong - ape, exploring, neutral, s
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ooze Jr</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/26/Ooze-Jr/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/26/Ooze-Jr/</id>
+    <published>2016-10-27T05:11:45.000Z</published>
+    <updated>2016-10-28T03:56:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/26/Ooze-Jr/20161026-ooze-jr.jpg" alt="Ooze Jr" title="Ooze Jr">
+<p>Ooze - chaotic, hostile, ambush, small</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/26/Ooze-Jr/20161026-ooze-jr.jpg&quot; alt=&quot;Ooze Jr&quot; title=&quot;Ooze Jr&quot;&gt;
+&lt;p&gt;Ooze - chaotic, hostile, ambush, small&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Goanzilla</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/25/Goanzilla/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/25/Goanzilla/</id>
+    <published>2016-10-26T05:16:11.000Z</published>
+    <updated>2016-10-28T03:56:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/25/Goanzilla/20161025-goanna.jpg" alt="Goanzilla" title="Goanzilla">
+<p>Goanzilla - goanna lizard, volcanic, chaotic, hostile, horde, medium-sized</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/25/Goanzilla/20161025-goanna.jpg&quot; alt=&quot;Goanzilla&quot; title=&quot;Goanzilla&quot;&gt;
+&lt;p&gt;Goanzilla - goanna lizard, volcanic, chaotic, hos
     
     </summary>
     
@@ -948,26 +991,6 @@
   </entry>
   
   <entry>
-    <title>Portfellow Scavengers</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
-    <published>2015-10-04T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>The King&#39;s Fen</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/</id>
@@ -980,6 +1003,26 @@
     <summary type="html">
     
       &lt;img src=&quot;/2015/10/04/The-King-s-Fen/the-kings-fen.jpg&quot; alt=&quot;The King&#39;s Fen&quot; title=&quot;The King&#39;s Fen&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Portfellow Scavengers</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
+    <published>2015-10-04T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
 
     
     </summary>
