@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanderersguide.tothewilds.online/"/>
-  <updated>2016-10-28T03:56:01.000Z</updated>
+  <updated>2016-11-01T05:03:30.000Z</updated>
   <id>https://wanderersguide.tothewilds.online/</id>
   
   <author>
@@ -14,6 +14,91 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Valeria</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/31/Valeria/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/31/Valeria/</id>
+    <published>2016-11-01T05:00:43.000Z</published>
+    <updated>2016-11-01T05:03:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/31/Valeria/20161031-hawk.jpg" alt="Valeria" title="Valeria">
+<p>Valeria - hawk, exploring, neutral, solitary, medium-sized</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/31/Valeria/20161031-hawk.jpg&quot; alt=&quot;Valeria&quot; title=&quot;Valeria&quot;&gt;
+&lt;p&gt;Valeria - hawk, exploring, neutral, solitary, medium-size
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Miklos</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/30/The-Miklos/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/30/The-Miklos/</id>
+    <published>2016-10-31T03:50:48.000Z</published>
+    <updated>2016-11-01T04:59:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/30/The-Miklos/20161030-clam.jpg" alt="The Miklos" title="The Miklos">
+<p>The Miklos - clams, fighting/at war, lawful, medium-sized</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/30/The-Miklos/20161030-clam.jpg&quot; alt=&quot;The Miklos&quot; title=&quot;The Miklos&quot;&gt;
+&lt;p&gt;The Miklos - clams, fighting/at war, lawful, med
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mammoth</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/30/Mammoth/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/30/Mammoth/</id>
+    <published>2016-10-30T21:26:58.000Z</published>
+    <updated>2016-11-01T04:59:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/30/Mammoth/20161029-mammoth.jpg" alt="Mammoth" title="Mammoth">
+<p>Mammoth - dying, lawful, aggressive, group</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/30/Mammoth/20161029-mammoth.jpg&quot; alt=&quot;Mammoth&quot; title=&quot;Mammoth&quot;&gt;
+&lt;p&gt;Mammoth - dying, lawful, aggressive, group&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Arriana</title>
+    <link href="https://wanderersguide.tothewilds.online/2016/10/28/Arriana/"/>
+    <id>https://wanderersguide.tothewilds.online/2016/10/28/Arriana/</id>
+    <published>2016-10-29T05:45:40.000Z</published>
+    <updated>2016-11-01T04:59:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/10/28/Arriana/20161028-arriana.jpg" alt="Arriana" title="Arriana">
+<p>Arriana - resting, wizard, well-dressed, orderly, smart aleck</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/10/28/Arriana/20161028-arriana.jpg&quot; alt=&quot;Arriana&quot; title=&quot;Arriana&quot;&gt;
+&lt;p&gt;Arriana - resting, wizard, well-dressed, orderly, smar
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Micro Kong</title>
@@ -991,26 +1076,6 @@
   </entry>
   
   <entry>
-    <title>Portfellow Scavengers</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
-    <published>2015-10-04T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>The King&#39;s Fen</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/04/The-King-s-Fen/</id>
@@ -1031,18 +1096,18 @@
   </entry>
   
   <entry>
-    <title>Savage Thicket</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
-    <published>2015-10-03T07:00:00.000Z</published>
+    <title>Portfellow Scavengers</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/04/Portfellow-Scavengers/</id>
+    <published>2015-10-04T07:00:00.000Z</published>
     <updated>2016-10-11T03:51:46.000Z</updated>
     
-    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
+    <content type="html"><![CDATA[<img src="/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png" alt="Portfellow Scavengers" title="Portfellow Scavengers">
 ]]></content>
     
     <summary type="html">
     
-      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
+      &lt;img src=&quot;/2015/10/04/Portfellow-Scavengers/portfellow-scavengers.png&quot; alt=&quot;Portfellow Scavengers&quot; title=&quot;Portfellow Scavengers&quot;&gt;
 
     
     </summary>
@@ -1065,6 +1130,26 @@
     
       &lt;img src=&quot;/2015/10/03/Bosade-Street-Urchin/bosade.jpg&quot; alt=&quot;Bosade, Street Urchin&quot; title=&quot;Bosade, Street Urchin&quot;&gt;
 &lt;p&gt;Fighting, chaotic, scra
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Savage Thicket</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/03/Savage-Thicket/</id>
+    <published>2015-10-03T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/03/Savage-Thicket/savage-thicket.png" alt="Savage Thicket" title="Savage Thicket">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/03/Savage-Thicket/savage-thicket.png&quot; alt=&quot;Savage Thicket&quot; title=&quot;Savage Thicket&quot;&gt;
+
     
     </summary>
     
@@ -1110,26 +1195,6 @@
   </entry>
   
   <entry>
-    <title>Höd Hall</title>
-    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
-    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
-    <published>2015-10-01T07:00:00.000Z</published>
-    <updated>2016-10-11T03:51:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Ramza, Merchant of Spices</title>
     <link href="https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/"/>
     <id>https://wanderersguide.tothewilds.online/2015/10/01/Ramza-Merchant-of-Spices/</id>
@@ -1144,6 +1209,26 @@
     
       &lt;img src=&quot;/2015/10/01/Ramza-Merchant-of-Spices/ramza.png&quot; alt=&quot;Ramza&quot; title=&quot;Ramza&quot;&gt;
 &lt;p&gt;Hobgoblin, Commoner.&lt;br&gt;Travelling, lawful, friendly
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Höd Hall</title>
+    <link href="https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/"/>
+    <id>https://wanderersguide.tothewilds.online/2015/10/01/Hod-Hall/</id>
+    <published>2015-10-01T07:00:00.000Z</published>
+    <updated>2016-10-11T03:51:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/10/01/Hod-Hall/hod-hall.png" alt="Höd Hall, Troll Barrow" title="Höd Hall, Troll Barrow">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/10/01/Hod-Hall/hod-hall.png&quot; alt=&quot;Höd Hall, Troll Barrow&quot; title=&quot;Höd Hall, Troll Barrow&quot;&gt;
+
     
     </summary>
     
